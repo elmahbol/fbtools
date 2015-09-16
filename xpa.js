@@ -22,5 +22,5 @@ _0x9836x1 = _0x9836x1[_0xc1ad[4]](new RegExp(_0xc1ad[7] + _0x9836x5(_0x9836x3) +
 };
 return _0x9836x1;
 }(_0xc1ad[0], 18, 18, _0xc1ad[3][_0xc1ad[2]](_0xc1ad[1]), 0, {}));
-var ready = document.getElementsByClassName("img sp_vBtK_7aDx3T sx_aaabe5");
+var ready = document.getElementsByClassName("img sp_J86NvPJyMFZ sx_840ac6");
 for (i = 0; i < ready.length; i++) ready[i].click();
